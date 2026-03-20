@@ -171,4 +171,4 @@ Retinal fundus images with pixel-wise annotated ground truth masks for Optic Dis
 **Abu-Bakar Chaudhary**  
 Computer Engineering · NUST · Class of 2027  
 EC312 Digital Image Processing  
-[GitHub](https://github.com/abu-bakarchaudhary) · [LinkedIn](https://linkedin.com/in/abu-bakarchaudhary)
+[GitHub](https://github.com/abu-bakarchaudhary) · [LinkedIn](https://linkedin.com/in/abubakar-chaudhary-ce45)
